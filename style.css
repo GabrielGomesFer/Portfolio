@@ -15,3 +15,20 @@ h1{
     font-family: 'font-family: 'Roboto Mono', monospace;oppins Bold';
     text-align: center;
 }
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; 
+}
+.apresentacao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
