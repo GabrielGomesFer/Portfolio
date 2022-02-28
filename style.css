@@ -4,8 +4,12 @@ body {
   text-rendering: optimizeLegibility;
   text-align: center;
   -webkit-font-smoothing: antialiased;
-  padding-left: 16%;
-  padding-right: 18%;
+  max-width: 1200px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
   text-align: justify;
 
 }
@@ -25,7 +29,7 @@ h1 {
   font-family: "font-family: " Roboto Mono ", monospace;oppins Bold";
   text-align: center;
   color: #57317c;
-  letter-spacing: 5px;
+  letter-spacing: 1rem;
 }
 
 .apresentacao {
@@ -48,6 +52,27 @@ footer {
     color: black;
 }
 .link{
-    color: #57317c;
+    color: rgb(87, 49, 124);
     text-decoration: none;
+}
+
+.habtext1{
+  background-color: rgba(130, 97, 163, 0.705);;
+  padding: 1rem;
+  padding-left: 3px;
+  border-radius: 15px;
+}
+.habtext1 p{
+  padding: 10px;
+  font-size: 1em;
+}
+.habtext2{
+  background-color: rgba(130, 97, 163, 0.705);;
+  padding: 1rem;
+  padding-left: 3px;
+  border-radius: 15px;
+}
+.habtext2 p{
+  padding: 10px;
+  font-size: 1em;
 }
