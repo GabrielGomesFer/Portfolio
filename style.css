@@ -1,18 +1,8 @@
 body {
   background-color: #F8F7FC;  
   font-family: "Poppins", sans-serif;
-  text-rendering: optimizeLegibility;
-  text-align: center;
-  -webkit-font-smoothing: antialiased;
-  max-width: 1200px;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  justify-content: center;
-  margin: auto;
-  text-align: justify;
-
 }
+
 strong{
     color: #57317c;
 }
@@ -30,13 +20,6 @@ h1 {
   text-align: center;
   color: #57317c;
   letter-spacing: 1rem;
-}
-
-.apresentacao {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
 }
 
 footer {
@@ -75,4 +58,26 @@ footer {
 .habtext2 p{
   padding: 10px;
   font-size: 1em;
+}
+
+.apresentacao {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-self: center;
+  padding: 1rem;
+}
+
+.filho {
+  align-self: center;
+  padding: 1.8rem;
+}
+
+.filho h2 {
+  font-size: 1.8em;
+}
+
+
+.filho p {
+  font-size: 1.2em;
 }
