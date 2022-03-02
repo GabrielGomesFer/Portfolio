@@ -1,6 +1,7 @@
 body {
   background-color: #F8F7FC;  
   font-family: "Poppins", sans-serif;
+  text-align: justify;
 }
 
 strong{
@@ -41,6 +42,8 @@ footer {
 
 .habtext1{
   background-color: rgba(130, 97, 163, 0.705);;
+  margin-left: 3rem;
+  margin-right: 3rem;
   padding: 1rem;
   padding-left: 3px;
   border-radius: 15px;
@@ -50,7 +53,9 @@ footer {
   font-size: 1em;
 }
 .habtext2{
-  background-color: rgba(130, 97, 163, 0.705);;
+  background-color: rgba(130, 97, 163, 0.705);
+  margin-left: 3rem;
+  margin-right: 3rem;  
   padding: 1rem;
   padding-left: 3px;
   border-radius: 15px;
