@@ -1,3 +1,3 @@
-#gabrielgomesfer.github.io/portfolio/
+gabrielgomesfer.github.io/portfolio/
 
 Apenas o início do meu portfólio.
